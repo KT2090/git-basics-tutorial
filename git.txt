@@ -1,2 +1,3 @@
 git
 Git is a distributed version control system.
+Git records changes in files, not the current state of files.
