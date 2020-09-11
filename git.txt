@@ -1,3 +1,4 @@
 git
 Git is a distributed version control system.
 Git records changes in files, not the current state of files.
+Changes in the working tree that have not been staged will not be committed.
