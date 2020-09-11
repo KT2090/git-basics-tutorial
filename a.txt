@@ -1,1 +1,0 @@
-Git --all will add and commit changes, but will not add new files.
