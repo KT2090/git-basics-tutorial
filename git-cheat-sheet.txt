@@ -9,4 +9,4 @@ The 'git restore' command can be used to undo changes.
 The 'git branch' command can be used to list and create branches
 The 'git switch' command can be used to set the active branch
 The 'git merge' command can be used to merge changes in two branches
-
+The 'git clone' command clones a repository and configures a remote
