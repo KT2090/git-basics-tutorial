@@ -11,3 +11,4 @@ The 'git switch' command can be used to set the active branch
 The 'git merge' command can be used to merge changes in two branches
 The 'git clone' command clones a repository and configures a remote
 The 'git fetch' command retrieves the latest commit history from a remote 
+The 'git pull' command fetches and merges changes from a remote
