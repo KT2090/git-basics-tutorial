@@ -6,3 +6,5 @@ The 'git init' command initializes a new Git repository
 The 'git add' command adds changes to the index.
 The 'git commit' command records on the active branch all changes that have been added to the index.
 The 'git restore' command can be used to undo changes.
+The 'git branch' command can be used to list and create branches
+The 'git switch' command can be used to set the active branch
