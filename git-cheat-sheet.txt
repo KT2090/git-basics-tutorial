@@ -5,3 +5,4 @@ Changes in the working tree that have not been staged will not be committed.
 The 'git init' command initializes a new Git repository 
 The 'git add' command adds changes to the index.
 The 'git commit' command records on the active branch all changes that have been added to the index.
+The 'git restore' command can be used to undo changes.
